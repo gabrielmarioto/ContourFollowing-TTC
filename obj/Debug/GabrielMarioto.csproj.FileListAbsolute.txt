@@ -1,0 +1,9 @@
+C:\Users\Gabriel\Desktop\GabrielMarioto\GabrielMarioto\GabrielMarioto\bin\Debug\GabrielMarioto.exe.config
+C:\Users\Gabriel\Desktop\GabrielMarioto\GabrielMarioto\GabrielMarioto\bin\Debug\GabrielMarioto.exe
+C:\Users\Gabriel\Desktop\GabrielMarioto\GabrielMarioto\GabrielMarioto\bin\Debug\GabrielMarioto.pdb
+C:\Users\Gabriel\Desktop\GabrielMarioto\GabrielMarioto\GabrielMarioto\obj\Debug\GabrielMarioto.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\GabrielMarioto\GabrielMarioto\GabrielMarioto\obj\Debug\GabrielMarioto.Form1.resources
+C:\Users\Gabriel\Desktop\GabrielMarioto\GabrielMarioto\GabrielMarioto\obj\Debug\GabrielMarioto.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\GabrielMarioto\GabrielMarioto\GabrielMarioto\obj\Debug\GabrielMarioto.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\GabrielMarioto\GabrielMarioto\GabrielMarioto\obj\Debug\GabrielMarioto.exe
+C:\Users\Gabriel\Desktop\GabrielMarioto\GabrielMarioto\GabrielMarioto\obj\Debug\GabrielMarioto.pdb
